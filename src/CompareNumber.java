@@ -1,4 +1,5 @@
 public class CompareNumber {
+
     public String compare(String answer,String input) {
 
         int aNumber = 0, bNumber = 0;
